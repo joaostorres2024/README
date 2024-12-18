@@ -21,23 +21,11 @@ Aqui estão algumas das tecnologias com as quais trabalho:
 - **GraphQL**
 - **Docker**
 
-## 📈 Estatísticas do GitHub
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
-
 ## 📫 Como Me Encontrar
 
 - [LinkedIn](https://www.linkedin.com/in/seu-perfil/)
 - [Email](mailto:seuemail@exemplo.com)
 - [Twitter](https://twitter.com/seu-usuario)
-
----
-
-### Projetos Destacados
-
-1. **[Projeto Incrível](https://github.com/seu-usuario/projeto-incrivel)**: Uma aplicação web utilizando Vue.js e Tailwind CSS.
-2. **[Sistema de Gerenciamento](https://github.com/seu-usuario/sistema-gerenciamento)**: Sistema completo utilizando PHP e MySQL.
-3. **[Portfólio de Design](https://www.figma.com/file/seu-arquivo)**: Meus projetos de design e protótipos no Figma.
 
 ---
 
